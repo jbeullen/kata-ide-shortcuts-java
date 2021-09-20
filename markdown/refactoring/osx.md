@@ -8,3 +8,4 @@
 * ⌘⌥M (Command + Option + M) - open the "extract method" dialog
 * ⌃T (CONTROL + T) - open the "refactor this..." dialog
 * ⌘F6 (Command + F6) - change signature
+* ⌘⌥T (Command + Option + T) - surround with
